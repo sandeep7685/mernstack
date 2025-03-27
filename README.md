@@ -1,22 +1,22 @@
 # At the search input, type the food recipes which are mentioned below:
 
-Chow Chow Bath
-Bisibele Bath
-Paneer 65
-Corn Soup
-Veggie Pizza
-Palak Paneer
-Masala Dosa
-Chole Bhature
-Pav Bhaji
-Aloo Paratha
-Manchurian
-Idli Sambar
-Gulab Jamun
-Veg Pulao
-Mangalore Buns
-Shavige Bath
-Vegetable Biryani
+1. Chow Chow Bath
+2. Bisibele Bath
+3. Paneer 65
+4. Corn Soup
+5. Veggie Pizza
+6. Palak Paneer
+7. Masala Dosa
+8. Chole Bhature
+9. Pav Bhaji
+10. Aloo Paratha
+11. Manchurian
+12. Idli Sambar
+13. Gulab Jamun
+14. Veg Pulao
+15. Mangalore Buns
+16. Shavige Bath
+17. Vegetable Biryani
 
 These Food items are included
 
