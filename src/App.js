@@ -86,7 +86,32 @@ function App() {
       image: 'https://www.cookwithmanali.com/wp-content/uploads/2014/10/Gulab-Jamun-Recipe.jpg',
       ingredients: ['Milk Powder', 'Flour', 'Sugar', 'Ghee', 'Cardamom'],
       instructions: 'Make dough, form balls, fry, soak in sugar syrup, serve.'
+    },
+    {
+    "title": "Veg Pulao",
+    "image": "https://www.indianveggiedelight.com/wp-content/uploads/2017/07/veg-pulao-karnataka-style-featured.jpg",
+    "ingredients": ["Basmati Rice", "Mixed Vegetables", "Onions", "Green Chilies", "Ginger-Garlic Paste", "Garam Masala", "Coriander", "Mint Leaves", "Ghee", "Salt"],
+    "instructions": "Rinse rice and soak for 20 minutes. Sauté onions, chilies, and ginger-garlic paste in ghee. Add vegetables, spices, and drained rice. Pour water, cook until rice is tender. Garnish with coriander and serve hot."
+    },
+    {
+    "title": "Mangalore Buns",
+    "image": "https://www.mydiversekitchen.com/wp-content/uploads/2021/09/Mangalore-Buns-2.jpeg",
+    "ingredients": ["Banana", "All-Purpose Flour", "Sugar", "Curd", "Baking Soda", "Salt", "Cumin Seeds", "Oil"],
+    "instructions": "Mash banana and mix with sugar, curd, salt, and cumin. Add flour and knead into a soft dough. Let it rest for a few hours. Roll into small puris and deep fry until golden brown. Serve warm."
+    },
+    {
+    "title": "Shavige Bath",
+    "image": "https://www.makepotato.com/wp-content/uploads/2023/10/Shavige-by-Makepotato1-rotated.jpg",
+    "ingredients": ["Rice Vermicelli (Shavige)", "Mustard Seeds", "Green Chilies", "Curry Leaves", "Turmeric Powder", "Lemon Juice", "Grated Coconut", "Cashews", "Coriander"],
+    "instructions": "Cook vermicelli and keep aside. In a pan, heat oil, add mustard seeds, curry leaves, chilies, and turmeric. Toss in cooked vermicelli, mix well, and add lemon juice. Garnish with grated coconut and coriander."
+    },
+    {
+    "title": "Vegetable Biryani",
+    "image": "https://www.whiskaffair.com/wp-content/uploads/2020/08/Veg-Biryani-2-3.jpg",
+    "ingredients": ["Basmati Rice", "Mixed Vegetables", "Onions", "Tomatoes", "Ginger-Garlic Paste", "Yogurt", "Spices (Cinnamon, Cloves, Cardamom)", "Saffron", "Ghee"],
+    "instructions": "Rinse and soak rice. Sauté onions, tomatoes, and ginger-garlic paste in ghee. Add vegetables, spices, and yogurt. Layer with rice and cook until done. Garnish with saffron milk and serve hot."
     }
+    
   ];
 
   useEffect(() => {
