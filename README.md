@@ -18,7 +18,7 @@
 16. Shavige Bath
 17. Vegetable Biryani
 
-These Food items are included
+These are the Food items present in the project
 
 
 # Getting Started with Create React App
