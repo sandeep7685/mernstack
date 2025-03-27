@@ -1,9 +1,24 @@
-At search input type the below food recipes:
+#At search input type the below food recipes:
 
+Chow Chow Bath
+Bisibele Bath
+Paneer 65
+Corn Soup
+Veggie Pizza
+Palak Paneer
+Masala Dosa
+Chole Bhature
+Pav Bhaji
+Aloo Paratha
+Manchurian
+Idli Sambar
+Gulab Jamun
+Veg Pulao
+Mangalore Buns
+Shavige Bath
+Vegetable Biryani
 
-
-
-
+These Food items are included
 
 
 # Getting Started with Create React App
