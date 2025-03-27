@@ -1,4 +1,4 @@
-# At search input type the below food recipes:
+# At the search input, type the food recipes which are mentioned below:
 
 Chow Chow Bath
 Bisibele Bath
